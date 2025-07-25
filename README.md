@@ -1,6 +1,7 @@
 # Deep Learning Module 4 - Computer Vision
+## Andrew Ng's Deep Learning Specialization
 
-This repository contains comprehensive labs and assignments for Module 4 of a Deep Learning course, focusing on Computer Vision techniques and applications.
+This repository contains comprehensive labs and assignments for Module 4 of Andrew Ng's Deep Learning Specialization, focusing on Convolutional Neural Networks and Computer Vision techniques. This course is part of the renowned Deep Learning Specialization offered by deeplearning.ai and Stanford University.
 
 ## Repository Structure
 
@@ -59,15 +60,17 @@ This repository contains comprehensive labs and assignments for Module 4 of a De
 - **Matplotlib**: Visualization and plotting
 - **PIL/Pillow**: Image processing
 
-## Topics Covered
-- Convolutional Neural Networks (CNNs)
-- Residual Networks (ResNets)
-- Transfer Learning
-- Object Detection (YOLO)
-- Image Segmentation (U-Net)
-- Face Recognition and Verification
-- Neural Style Transfer
-- Computer Vision Applications
+## About Andrew Ng's Deep Learning Specialization
+
+This is Course 4 (Convolutional Neural Networks) from Andrew Ng's famous Deep Learning Specialization. The course covers:
+
+- **Foundations of CNNs**: Understanding convolution operations, padding, and stride
+- **Deep CNN Architectures**: LeNet, AlexNet, VGG, ResNet, and Inception networks  
+- **Practical Applications**: Object detection with YOLO, image segmentation with U-Net
+- **Face Recognition**: Siamese networks and triplet loss
+- **Neural Style Transfer**: Combining content and artistic style in images
+
+Each lab is carefully designed to build understanding from theoretical concepts to practical implementations, following Andrew Ng's pedagogical approach of learning through hands-on coding.
 
 ## File Types Excluded
 Large files have been excluded from this repository to comply with GitHub's file size limits:
@@ -79,11 +82,14 @@ Large files have been excluded from this repository to comply with GitHub's file
 Refer to the original dataset sources or pre-trained model repositories to obtain these files.
 
 ## Usage
-Each lab contains Jupyter notebooks with step-by-step implementations and explanations. The notebooks are designed to be educational and include:
-- Theoretical background
-- Code implementation
-- Visualization of results
-- Practical exercises
+Each lab contains Jupyter notebooks with step-by-step implementations following Andrew Ng's teaching methodology. The notebooks include:
+- Theoretical background and intuitive explanations
+- Step-by-step code implementation with detailed comments
+- Visualization of results and intermediate steps
+- Practical exercises and programming assignments
+- Real-world applications and case studies
+
+The labs are designed to be completed sequentially, building knowledge progressively from basic CNN concepts to advanced computer vision applications.
 
 ## Prerequisites
 - Python 3.7+
@@ -91,5 +97,13 @@ Each lab contains Jupyter notebooks with step-by-step implementations and explan
 - Basic understanding of neural networks
 - Familiarity with Python and NumPy
 
-## License
-This repository contains educational materials for learning purposes. Please refer to individual lab directories for specific license information where applicable.
+## License and Attribution
+This repository contains educational materials from Andrew Ng's Deep Learning Specialization. The original course content is created by deeplearning.ai and Stanford University. This repository is for educational and learning purposes only.
+
+**Course Information:**
+- **Instructor**: Andrew Ng
+- **Institution**: Stanford University / deeplearning.ai
+- **Course**: Deep Learning Specialization - Course 4: Convolutional Neural Networks
+- **Platform**: Coursera
+
+Please refer to the original course materials and respect the intellectual property rights of the course creators.
