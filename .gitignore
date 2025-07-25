@@ -1,0 +1,57 @@
+# Large model files and datasets (exceeding GitHub limits)
+*.h5
+*.h5.zip
+*.pt
+*.pb
+**/model_data/*.h5
+**/model_data/*.pb
+**/weights/
+**/datasets/
+**/pretrained-model/
+
+# Large image/video files
+*.mp4
+*.avi
+*.mov
+
+# Cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.dylib
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Large dataset directories
+**/dataset/
+**/images/ (if contains large images)
+
+# Zip files containing large data
+*.zip
+
+# Large notebook output files (>10MB)
+*Google_Colab*.ipynb
